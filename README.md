@@ -9,4 +9,5 @@ en yüksek puanı almak.
 ---------------Bilinen Hatalar---------------
 
 1- Responsive uyun değil (Her ekranda düzegin açılmıyor).
+
 2- Sınırsız mermi ateşlene biliyor.
